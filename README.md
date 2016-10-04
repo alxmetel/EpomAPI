@@ -1,6 +1,6 @@
 Create class Publisher and add to it next methods:
 
-All methods from Site Management API - https://epom.com/support/api/publisher-api/site-api/site-management-api
+All methods from Site Management API - https://epom.com/support/api/publisher-api/site-api/site-management-api<br>
 All methods from Site Pricing API - https://epom.com/support/api/publisher-api/site-api/site-pricing
 All methods from Site Rules API - https://epom.com/support/api/publisher-api/site-api/site-rules
 All methods from Site Targeting API - https://epom.com/support/api/publisher-api/site-api/site-targeting
